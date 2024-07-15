@@ -1,8 +1,11 @@
-
-NSAA Documentation
-===============================
+Judges
+-------
 
 .. toctree::
-    :maxdepth: 2
-   
-    ./pages/judges-administrative/index
+    :caption: Administrator
+    :titlesonly:
+
+    judges/admin/manage-judges/index
+    judges/admin/ballots/index
+
+
