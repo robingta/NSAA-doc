@@ -2,5 +2,5 @@
 Judges List
 =======================
 
-.. image:: images/judges/manage-judges/manage-judges-list.png
-  :alt: Manage Judges List
+.. thumbnail:: ../../../images/judges/manage-judges/manage-judges-list.png
+  :title: Manage Judges List

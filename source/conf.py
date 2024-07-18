@@ -29,6 +29,7 @@ extensions = [
     "sphinx_sitemap",
     "sphinx_design",
     "sphinx_docsearch",
+    "sphinxcontrib.images",
 ]
 
 exclude_patterns = ["public", "includes", "**/includes"]

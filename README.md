@@ -15,11 +15,17 @@ pip3 install bs4
 ```
 pip3 install sphinx_sitemap
 ```
+
 ```
 pip3 install sphinx_design
 ```
+
 ```
 pip3 install sphinx_docsearch
+```
+
+```
+pip install sphinxcontrib-images
 ```
 
 **Configure the Envirnment**
