@@ -8,3 +8,6 @@ Manage Judges
     list
     create
     update
+    completedRegistration
+    rosters
+    quickExports
