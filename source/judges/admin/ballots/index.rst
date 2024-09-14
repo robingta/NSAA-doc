@@ -8,3 +8,5 @@ Ballots
     list
     create
     update
+    reports
+    welcome

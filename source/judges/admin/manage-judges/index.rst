@@ -8,6 +8,7 @@ Manage Judges
     list
     create
     update
+    misdemeanor
     completedRegistration
     rosters
     quickExports
