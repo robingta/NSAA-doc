@@ -9,4 +9,3 @@ Ballots
     create
     update
     reports
-    welcome
