@@ -7,5 +7,6 @@ Judges
 
     judges/admin/manage-judges/index
     judges/admin/ballots/index
+    judges/admin/registration/index
 
 
