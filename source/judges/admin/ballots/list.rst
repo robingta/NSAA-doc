@@ -37,10 +37,6 @@ Ballots List
 
 .. image:: ../../../images/ballots/ballot-lists/6.select-school-edit.png
    :alt: Select School
-
-
-======================
-4. Using the Search Bar:
 ======================
 * After making these selections, the **Search Bar** will automatically become **active**.
 
