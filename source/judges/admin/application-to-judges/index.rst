@@ -2,8 +2,9 @@ Application To Judges
 =============================
 
 .. toctree::
-    :caption: Application To Judges
+    :caption: Application To Judges.
     :titlesonly:
 
-   manageZones
-   judgesSubmission
+    manageZones
+    judgesSubmission
+    stateContests
