@@ -15,7 +15,7 @@ Clicking **Registration** from side menu this will redirects the user to the **S
 
 **Official’s Name (No. 1):** Clicking on the official’s name opens a detailed view of their application and payment details.
 
-.. thumbnail:: ../../../images/registration/payment_details.png
+.. thumbnail:: ../../../images/registration/payment.png
    :title: Application and Payment details.
 
 This is the Application and Payment details for a specific Official's.
