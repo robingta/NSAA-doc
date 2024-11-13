@@ -8,3 +8,4 @@ Application To Judges
     manageZones
     judgesSubmission
     stateContests
+    advancedSearch

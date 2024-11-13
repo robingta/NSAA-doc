@@ -8,11 +8,13 @@ Judges Submission
 * This section presents two options: **Manage Zones** and **Judges Submission**.
 
 .. thumbnail:: ../../../images/application-to-judges/judges-sub/menu-2.png
+    :width: 200px
 
 
 * Click on **Judges Submission** to access registered judges who have not submitted an Application to Judge.
 
 .. thumbnail:: ../../../images/application-to-judges/judges-sub/sub-menu-3.png
+    :width: 200px
 
 * Two categories will be displayed: **Play Production** and **Speech**. Select one to view further details.
 
