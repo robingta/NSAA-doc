@@ -10,5 +10,6 @@ Judges
     judges/admin/registration/index
     judges/admin/application-to-judges/index
     judges/admin/due-dates/index
+    judges/admin/home/index
 
 
