@@ -9,7 +9,7 @@ Speech District Results
 Clicking **State Speech** from side menu this will redirects the user to the **State Speech** page.
 
 .. thumbnail:: ../../../images/statespeech/resultpage.png
-   :title: Speech District Results.
+   :title: Speech District button.
 
 This page is dedicated to managing State Speech information, providing navigation to specific functionalities.
 
@@ -17,7 +17,7 @@ The button labeled **View Submitted District Speech Results (1)** redirects the 
 
 
 .. thumbnail:: ../../../images/statespeech/result.png
-   :title: Appilcation to Judges Side Menu.
+   :title: Speech District Results.
 
 This page displays the Speech District Results, providing users with access to results in HTML and CSV formats for various districts.
 
