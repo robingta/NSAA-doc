@@ -2,8 +2,9 @@ State Speech
 ==================
 
 .. toctree::
-    :caption: State Speech
+    :caption: State Speech.
     :titlesonly:
 
-   speechDistrictResults
-   exportsReports
+    speechDistrictResults
+    exportsReports
+    editRoundsRoom
