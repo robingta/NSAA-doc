@@ -8,3 +8,4 @@ State Speech
     speechDistrictResults
     exportsReports
     editRoundsRoom
+    viewAssignJudges
