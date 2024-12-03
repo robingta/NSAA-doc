@@ -3,6 +3,7 @@ Create New Judge
 ===========================
 .. thumbnail:: ../../../images/judges/manage-judges/create-new-judges.png
   :title: Create New Judge
+  
 **Passcode:**
 Enter the judge’s passcode in this field for security purposes.
 

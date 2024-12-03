@@ -20,10 +20,12 @@ Rosters
   These are likely different sets of rosters,categorized by year.
 
 
-|
+
 .. thumbnail:: ../../../images/judges/manage-judges/roster-sp-pp.png
   :title: Rosters
+
 | After clicking rosters from dropdown menu this interface will appear.
+
 **Activity Selection (1):**
 After selecting the "Roster" option from the dropdown menu, this UI allows users to choose between different activities such as "Play Production" or "Speech." This will filter the roster according to the chosen activity.
 
