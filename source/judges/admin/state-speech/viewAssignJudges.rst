@@ -37,21 +37,27 @@ To View/Assign Judges & Contestants, the user needs to select the **Event** from
 
 
 - **No. 1: Select the Judge:**
+
 Users can assign judges to each room by entering their names in the "Judge" input fields for each round and room.
 
 - **No. 2: Swap:**
+
 This button allows swapping assignments between rooms or rounds, facilitating quick adjustments.
 
 - **No. 3: Shuffle Students:**
+
 Clicking this button automatically assigns students to the available rooms for all rounds.
 
 - **No. 4: Select Final Judges:**
+
 Users can assign specific judges for the finals by entering their names in the "Finals Judges" section.
 
 - **No. 5: Select Class:**
+
 A dropdown menu to select the class (e.g., B) for which the assignments are being managed.
 
 - **No. 6: Select Event:**
+
 A dropdown menu to select the specific event (e.g., Humorous Interpretation) for which judges and contestants are being assigned.
 
 .. thumbnail:: ../../../images/statespeech/view/judge.png
