@@ -59,7 +59,7 @@ Rules Meeting
 .. thumbnail:: ../../../images/rules-meeting/after-sort-10.png
     :width: 200px
 
-**➡️ Accessing the Payments Page:**
+**➡️ Payments Page Details:**
 
 * Select Payments from the dropdown menu.
 
@@ -83,6 +83,31 @@ Rules Meeting
 * Currently, no data is available in the table.
 
 * The page includes a feature labeled View ALL Transactions, which allows you to view all transactions, including those that have been previously deleted from the view.
+
+**➡️ Lookup Page Details:**
+
+* Select Lookup from the dropdown menu.
+
+.. thumbnail:: ../../../images/rules-meeting/lookup-14.png
+    :width: 200px
+
+* The Lookup page will be displayed.
+
+* The page includes a dropdown menu with the following options:
+
+    Officials & Judges, Select Sport
+
+.. thumbnail:: ../../../images/rules-meeting/lookup-page-15.png
+
+* The table on this page includes the following columns:
+
+    Name (Last, First), Began Watching, Finished Watching, Completed Verification/Payment, Invoice ID, Signature
+
+* You can sort the table by clicking on the following column headers:
+
+    Name (Last, First), Began Watching, Finished Watching, Completed Verification/Payment.
+
+.. thumbnail:: ../../../images/rules-meeting/sorting-options-16.png
 
 
 

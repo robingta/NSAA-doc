@@ -14,5 +14,3 @@ Judges
     judges/admin/state-speech/index
     judges/admin/rules-meeting/index
     judges/admin/due-dates/index
-
-
