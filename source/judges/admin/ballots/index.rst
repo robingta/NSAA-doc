@@ -6,6 +6,4 @@ Ballots
     :titlesonly:
 
     list
-    create
-    update
     reports
