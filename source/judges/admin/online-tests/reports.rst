@@ -1,5 +1,5 @@
-Online Tests
-================
+Online Tests Reports
+======================
 
 * Select the Online Tests option from the sidebar.
 
