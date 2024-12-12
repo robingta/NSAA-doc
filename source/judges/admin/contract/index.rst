@@ -6,4 +6,5 @@ Contract
     :titlesonly:
 
     viewDistrictHost
+    infoAndStatus
     
