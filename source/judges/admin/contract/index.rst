@@ -7,4 +7,5 @@ Contract
 
     viewDistrictHost
     infoAndStatus
+    advancedSearch
     

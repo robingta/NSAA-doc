@@ -36,7 +36,6 @@ Ballots List
 .. thumbnail:: ../../../images/ballots/ballot-lists/6.select-school-edit.png
    :width: 250px
 
-======================
 * After making these selections, the **Search Bar** will automatically become **active**.
 
 .. thumbnail:: ../../../images/ballots/ballot-lists/7.save-changes.png
