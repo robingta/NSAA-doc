@@ -8,4 +8,5 @@ Contract
     viewDistrictHost
     infoAndStatus
     advancedSearch
+    preview
     
