@@ -12,6 +12,7 @@ Judges
     judges/admin/application-to-judges/index
     judges/admin/ballots/index
     judges/admin/contract/index
+    judges/admin/judges-contract/index
     judges/admin/state-speech/index
     judges/admin/due-dates/index
     judges/admin/rules-meeting/index
