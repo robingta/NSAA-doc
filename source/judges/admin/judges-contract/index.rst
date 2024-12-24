@@ -5,6 +5,6 @@ Judges Contract
     :caption: Judges Contract.
     :titlesonly:
 
-    statePlayProduction
-    districtPlayProduction
+    stateContractAssignment
+    districtContractAssignment
    
