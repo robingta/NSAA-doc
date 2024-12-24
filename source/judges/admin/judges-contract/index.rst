@@ -7,4 +7,5 @@ Judges Contract
 
     stateContractAssignment
     districtContractAssignment
+    stateSpeech
    

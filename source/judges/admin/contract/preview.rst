@@ -44,7 +44,7 @@ Preview
 
 .. thumbnail:: ../../../images/contract/preview/host-contract-8.png
 
-* ➡️ In this page:
+➡️ In this page:
 
     * You can edit the contract details as needed.
     * Once the required fields are completed, the Submit button will become enabled, allowing you to finalize and submit the form.
