@@ -51,13 +51,9 @@ Once both selections are made, the system will display the District Host Contrac
 This page is for managing Play Production District Host Contracts, where users can configure and update district host-related details.
 
 - No. 1 (Select District or State): A dropdown to select the desired district or state for which the host contract is being managed.
-
 - No. 2 (Select Class/Dist): A dropdown linked to the selected district or state, allowing users to specify the class or district for the chosen selection in No. 1.
-
 - No. 3 (Choose Host School): A field to select or specify the host school for the selected district and class.
-
 - No. 4 (Redirect to Assignments Page): A link that redirects users to the Play Production District Assignments Page, where they can view or manage assignments for the selected district.
-
 - No. 5 (Save Button): A button to save the changes or updates made to the district host contract details.
 
 |

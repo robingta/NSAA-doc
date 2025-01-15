@@ -161,9 +161,7 @@ Contract Responses
   :title: Select Judge.
 
 To access the Play Production Contract Response page, the user needs to follow these steps:
-
   - Click on the “Links” dropdown menu. This will reveal a list of options.
-
   - Select “Contract Responses” from the list.
 
 |
@@ -177,7 +175,6 @@ To access the Play Production Contract Response page, the user needs to follow t
 The user has arrived at the “Contract Responses” page.
 
 As you correctly pointed out, the first step here is to:
-
   - Select the desired “Class/Dist or State” from the dropdown menu. This dropdown allows the user to choose the specific class or district for which they want to contract responses.
 
 Once the class/district or state is selected, the system will likely display a list of judges or provide further options for assigning judges to the chosen category.
